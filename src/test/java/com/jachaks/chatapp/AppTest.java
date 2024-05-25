@@ -1,4 +1,4 @@
-package com.jachaks;
+package com.jachaks.chatapp;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,6 +1,6 @@
-package com.jachaks.config;
+package com.jachaks.chatapp.config;
 
-import com.jachaks.model.Message;
+import com.jachaks.chatapp.model.Message;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
